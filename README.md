@@ -20,6 +20,7 @@ App uses starter code from https://github.com/coding-boot-camp/miniature-eureka 
 ## License
 N/A
 ## Link to github repository:
-https://github.com/AnaCampos171/Note_Taker
+https://github.com/AnaCampos171/notetaker
 
 ## Link to deployed application: 
+https://salty-inlet-01390.herokuapp.com/
